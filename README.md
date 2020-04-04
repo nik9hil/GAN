@@ -1,2 +1,3 @@
 # GAN
-Implementation of different varieties of GANs for Pokemon generation
+Implementation of different varieties of GANs for Pokemon generation and much moree
+
